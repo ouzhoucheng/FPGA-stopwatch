@@ -1,8 +1,10 @@
 # FPGA-stopwatch
 a simple stopwatch made by FPGA EGO1 board
+
 用ego1板子做一个时钟,可以通过按键更改时间3,可以自动进位.
-[video(video-eYK6eSqc-1642904600713)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=893285654)(image-https://img-blog.csdnimg.cn/img_convert/91cc9539beed6e4e5d2d6f6c427c0b40.png)(title-【FPGA】EGO1做一个时钟)]
-文末提供下载方式.
+
+[【FPGA】EGO1做一个时钟](https://www.bilibili.com/video/BV1JP4y17797/)
+
 # 文件关系
 
 > 文件
